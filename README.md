@@ -1,2 +1,2 @@
 # Missing-Letter
-the first successful and unique java game I've ever created.
+A java game inspired by riddle from a 7-second Riddles video
